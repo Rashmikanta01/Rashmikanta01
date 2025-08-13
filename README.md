@@ -54,7 +54,3 @@
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashmikanta01&show_icons=true&locale=en" />
 </p>
 
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://github.com/rashmikanta01/rashmikanta01/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
