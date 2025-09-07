@@ -34,7 +34,7 @@
 <a href="https://reactnative.dev/" target="_blank"><img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" height="50" alt="React Native"/></a>
 
 <!-- Eye-catching developer GIF -->
-<img align="right" alt="developer" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" />
+<img align="right" alt="developer" width="250" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif" />
 </p>
 
 <!-- Stats Section -->
