@@ -6,6 +6,8 @@
 <h1 align="center">Hi 👋, I'm Rashmi Kanta Biswal</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
+<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/761a1936-a6c7-4808-80f7-7445f883d83b" />
+
 <!-- Profile Views -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rashmikanta01&label=Profile%20views&color=0e75b6&style=flat" alt="rashmikanta01" />
