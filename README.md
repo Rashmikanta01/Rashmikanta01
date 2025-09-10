@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rashmi Kanta Biswal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<!-- Right-side top GIF -->
+<!-- Right-side top GIF add -->
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmikanta01&label=Profile%20views&color=0e75b6&style=flat" alt="rashmikanta01" /> </p>
